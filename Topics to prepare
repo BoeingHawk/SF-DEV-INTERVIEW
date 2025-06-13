@@ -1,0 +1,11 @@
+Security Model (owd, sharing rule, manual sharing, role, profile, permission set, apex sharing)
+
+Apex, Async Apex, trigger, governor limit, test class
+
+Flow, asynchronous flow
+
+Lwc ( wire, imperative call, parent to child, child to parent communication, communication between 2 unrelated components, in lwc how to get, create or update records without calling apex class, display data fetched from apex class in datatable, custom events, lwc lifecycle hooks, async await in js)
+
+Integration ( named credential, auth provider, connected app, remote site settings, http callout, web services, http callout test class, how to connect Salesforce to salesforce, how to connect Salesforce to external system)
+
+Deployment and version control
